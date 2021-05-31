@@ -36,7 +36,7 @@ export default function Header() {
         <div className="flex-shrink-0">
           <header className="px-6 border-b border-gray-200">
             <div className="flex justify-between items-center  py-3">
-              {/* Searchbar */}
+              
               <div className="min-w-0 flex-1 flex">
                 
                <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -44,7 +44,7 @@ export default function Header() {
    </svg>
               </div>
 
-              {/* Icons */}
+              
               <div className=" dropdown ml-6 flex-shrink-0 flex items-center">
                 
                 <button className="dropdown  ml-6">
@@ -59,7 +59,7 @@ export default function Header() {
               </div>
             </div>
 
-            {/* Header Bottom */}
+            
             
 
               
