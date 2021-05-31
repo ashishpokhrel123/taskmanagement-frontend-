@@ -54,7 +54,6 @@ export default function Register(props) {
     } 
 
     const redirectToHome = () => {
-      alert("hello");
       props.history.push('/home');
     }
 

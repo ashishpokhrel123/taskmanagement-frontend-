@@ -11,3 +11,8 @@
 .board {
     background: gray-200;
 }
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+
